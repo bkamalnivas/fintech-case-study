@@ -3,3 +3,20 @@
 
 ## Can a small fish beat the pool full of large Shark? How long will it itake for the company to become a moneycow for its developer instead of be a money cow for investors?
   
+# Robinhood (HOOD) #
+
+Description: The description includes the various information regarding teh chosen company (Robinhood Markets).
+
+Contributors: Kamalnivas Balasubramanian, Vasyl Alba
+
+
+### Robinhood Markets case study (HOOD) ###
+
+- background
+
+- technology
+
+- weakness
+
+- prognosis
+
