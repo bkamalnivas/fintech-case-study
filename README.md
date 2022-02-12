@@ -1,1 +1,5 @@
 # fintech-case-study
+
+## Robinhood
+
+
